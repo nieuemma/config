@@ -21,7 +21,6 @@
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
-- [swayosd](https://github.com/erikreider/swayosd)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [yazi](https://github.com/sxyazi/yazi)
 - [zsh4humans](https://github.com/romkatv/zsh4humans)
