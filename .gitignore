@@ -10,4 +10,5 @@
 !/kitty/kitty.conf
 /pulse/*
 /qutebrowser/*
-/!qutebrowser/autoconfig.yml
+!/qutebrowser/autoconfig.yml
+!/qutebrowser/config.py
