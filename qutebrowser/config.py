@@ -7,6 +7,9 @@
 # Call autoconfig
 config.load_autoconfig()
 
+# hide statusbar
+c.statusbar.show = 'never'
+c.tabs.show = 'never'
 
 base00 = "#1a1b26"
 base01 = "#16161e"

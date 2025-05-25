@@ -1,4 +1,5 @@
 /clipse/*
+/clipse/clipboard_history.json
 !/clipse/config.json
 !/clipse/custom_theme.json
 /dconf/*
