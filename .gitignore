@@ -8,7 +8,13 @@
 /kitty/*
 !/kitty/current-theme.conf
 !/kitty/kitty.conf
+/mimeapps.list
 /pulse/*
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
 !/qutebrowser/config.py
+/simple-update-notifier/*
+/vesktop/sessionData/*
+/vesktop/Crashpad/*
+/vesktop/state/vesktop/Crashpad/*
+/vesktop/state.json

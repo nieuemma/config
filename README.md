@@ -19,6 +19,7 @@
 - [mpv](https://github.com/mpv-player/mpv)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
+- [vesktop](https://github.com/vencord/vesktop)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [yazi](https://github.com/sxyazi/yazi)
 - [zsh4humans](https://github.com/romkatv/zsh4humans)
