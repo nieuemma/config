@@ -1,6 +1,10 @@
+clipse/clipboard_history.json
+clipse/tmp_files
+clipse/clipse.log
 dconf
 discord
 Electron
+gh
 kitty/kitty.conf.bak
 pulse
 qutebrowser/bookmarks

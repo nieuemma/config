@@ -3,7 +3,6 @@
 ### I use [Arch Linux](https://archlinux.org/) with the following software
 
 - [clipse](https://github.com/savedra1/clipse)
-- [gimp](https://github.com/GNOME/gimp)
 - [github-cli](https://github.com/cli/cli)
 - [helix](https://github.com/helix-editor/helix)
 - [hypridle](https://github.com/hyprwm/hypridle)
@@ -18,7 +17,6 @@
 - [hyprsunset](https://github.com/hyprwm/hyprsunset)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [mpv](https://github.com/mpv-player/mpv)
-- [obs-studio](https://github.com/obsproject/obs-studio)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
