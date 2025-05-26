@@ -4,6 +4,7 @@
 
 - [clipse](https://github.com/savedra1/clipse)
 - [github-cli](https://github.com/cli/cli)
+- [glances](https://github.com/nicolargo/glances)
 - [helix](https://github.com/helix-editor/helix)
 - [hypridle](https://github.com/hyprwm/hypridle)
 - [hyprland](https://github.com/hyprwm/hyprland)
@@ -17,6 +18,7 @@
 - [hyprsunset](https://github.com/hyprwm/hyprsunset)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [mpv](https://github.com/mpv-player/mpv)
+- [paru](https://github.com/morganamilo/paru)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
 - [vesktop](https://github.com/vencord/vesktop)
