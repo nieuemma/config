@@ -14,6 +14,7 @@
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
 !/qutebrowser/config.py
+/Raspberry Pi/*
 /simple-update-notifier/*
 /vesktop/sessionData/*
 /vesktop/Crashpad/*
