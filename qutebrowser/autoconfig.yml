@@ -25,7 +25,7 @@ settings:
   fonts.default_family:
     global: Messlo
   fonts.default_size:
-    global: 10pt
+    global: 13pt
   statusbar.show:
     global: never
   tabs.favicons.show:
