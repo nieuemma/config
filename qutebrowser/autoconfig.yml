@@ -23,7 +23,9 @@ settings:
   downloads.remove_finished:
     global: 4000
   fonts.default_family:
-    global: Iosevka
+    global: Iosevka Custom
+  fonts.default_size:
+    global: 10pt
   statusbar.show:
     global: never
   tabs.favicons.show:

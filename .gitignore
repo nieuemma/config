@@ -1,3 +1,4 @@
+.ignore
 /clipse/*
 /clipse/clipboard_history.json
 !/clipse/config.json
