@@ -21,9 +21,9 @@ settings:
   downloads.position:
     global: bottom
   downloads.remove_finished:
-    global: 4000
+    global: 0
   fonts.default_family:
-    global: InterVariable
+    global: Messlo
   fonts.default_size:
     global: 10pt
   statusbar.show:

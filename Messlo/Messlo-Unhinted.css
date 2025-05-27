@@ -1,0 +1,72 @@
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Messlo-Regular.woff2') format('woff2'), url('TTF-Unhinted/Messlo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Messlo-Extended.woff2') format('woff2'), url('TTF-Unhinted/Messlo-Extended.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Messlo-Italic.woff2') format('woff2'), url('TTF-Unhinted/Messlo-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Messlo-ExtendedItalic.woff2') format('woff2'), url('TTF-Unhinted/Messlo-ExtendedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Messlo-Bold.woff2') format('woff2'), url('TTF-Unhinted/Messlo-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Messlo-ExtendedBold.woff2') format('woff2'), url('TTF-Unhinted/Messlo-ExtendedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Messlo-BoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Messlo-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'messlo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Messlo-ExtendedBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Messlo-ExtendedBoldItalic.ttf') format('truetype');
+}
