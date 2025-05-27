@@ -1,4 +1,4 @@
-theme = "github_dark_high_contrast"
+theme = "gitdark"
 
 [editor]
 scrolloff = 0
@@ -21,3 +21,4 @@ center = ["version-control"]
 
 [editor.file-picker]
 hidden = false
+
