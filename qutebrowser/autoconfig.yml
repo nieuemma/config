@@ -15,6 +15,12 @@ settings:
   content.notifications.enabled:
     https://www.qwertykeys.com: false
     https://www.youtube.com: false
+  downloads.location.prompt:
+    global: false
+  downloads.position:
+    global: bottom
+  downloads.remove_finished:
+    global: 4000
   fonts.default_family:
     global: Monaspace Neon Var
   statusbar.show:

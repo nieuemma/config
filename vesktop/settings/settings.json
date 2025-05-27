@@ -5,7 +5,7 @@
     "themeLinks": [],
     "eagerPatches": false,
     "enabledThemes": [
-        "tokyo-night.theme.css"
+        "GitHub-Dark.theme.css"
     ],
     "enableReactDevtools": false,
     "frameless": false,
@@ -57,7 +57,9 @@
             "enabled": false
         },
         "AlwaysTrust": {
-            "enabled": true
+            "enabled": true,
+            "domain": true,
+            "file": true
         },
         "AnonymiseFileNames": {
             "enabled": true
@@ -102,7 +104,8 @@
             "enabled": false
         },
         "BlurNSFW": {
-            "enabled": true
+            "enabled": true,
+            "blurAmount": 10
         },
         "CallTimer": {
             "enabled": false
@@ -135,7 +138,9 @@
             "enabled": true
         },
         "CtrlEnterSend": {
-            "enabled": true
+            "enabled": true,
+            "submitRule": "ctrl+enter",
+            "sendMessageInTheMiddleOfACodeBlock": true
         },
         "CustomRPC": {
             "enabled": false
@@ -144,7 +149,10 @@
             "enabled": false
         },
         "Dearrow": {
-            "enabled": true
+            "enabled": true,
+            "hideButton": false,
+            "replaceElements": 0,
+            "dearrowByDefault": true
         },
         "Decor": {
             "enabled": false
@@ -493,7 +501,9 @@
             "enabled": false
         },
         "UserMessagesPronouns": {
-            "enabled": true
+            "enabled": true,
+            "showSelf": true,
+            "pronounsFormat": "LOWERCASE"
         },
         "UserVoiceShow": {
             "enabled": false
@@ -520,7 +530,8 @@
             "enabled": false
         },
         "ViewRaw": {
-            "enabled": true
+            "enabled": true,
+            "clickMethod": "Left"
         },
         "VoiceDownload": {
             "enabled": false
@@ -577,6 +588,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1748195065494
+        "settingsSyncVersion": 1748316111132
     }
 }

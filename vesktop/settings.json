@@ -6,5 +6,7 @@
     "splashBackground": "rgb(12, 12, 14)",
     "spellCheckLanguages": [
         "en-US"
-    ]
+    ],
+    "enableSplashScreen": true,
+    "tray": true
 }
