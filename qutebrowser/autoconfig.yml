@@ -8,6 +8,8 @@ config_version: 2
 settings:
   colors.webpage.preferred_color_scheme:
     global: dark
+  completion.show:
+    global: auto
   content.javascript.clipboard:
     https://github.com: access-paste
   content.notifications.enabled:
@@ -21,8 +23,12 @@ settings:
     global: never
   tabs.last_close:
     global: close
+  tabs.position:
+    global: bottom
   tabs.show:
-    global: switching
+    global: never
+  tabs.wrap:
+    global: false
   url.default_page:
     global: about:blank
   url.searchengines:
