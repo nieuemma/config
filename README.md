@@ -1,8 +1,9 @@
 # nieuemma's configurations
 
-### I use [Arch Linux](https://archlinux.org/) with the following software
+### I use [Arch Linux](https://archlinux.org/) with the following:
 
 - [clipse](https://github.com/savedra1/clipse)
+- [cmus](https://github.com/cmus/cmus)
 - [github-cli](https://github.com/cli/cli)
 - [glances](https://github.com/nicolargo/glances)
 - [helix](https://github.com/helix-editor/helix)
@@ -16,12 +17,16 @@
 - [hyprpicker](https://github.com/hyprwm/hyprpicker)
 - [hyprshot](https://github.com/Gustash/Hyprshot)
 - [hyprsunset](https://github.com/hyprwm/hyprsunset)
+- [iosevka](https://github.com/be5invis/iosevka)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [mpv](https://github.com/mpv-player/mpv)
+- [nushell](https://github.com/nushell/nushell)
 - [paru](https://github.com/morganamilo/paru)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 - [rustup](https://github.com/rust-lang/rustup)
+- [starship](https://github.com/starship/starship)
 - [vesktop](https://github.com/vencord/vesktop)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [yazi](https://github.com/sxyazi/yazi)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [zsh4humans](https://github.com/romkatv/zsh4humans)

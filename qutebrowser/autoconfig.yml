@@ -23,7 +23,7 @@ settings:
   downloads.remove_finished:
     global: 4000
   fonts.default_family:
-    global: Monaspace Neon Var
+    global: Iosevka
   statusbar.show:
     global: never
   tabs.favicons.show:
