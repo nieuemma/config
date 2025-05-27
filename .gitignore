@@ -5,12 +5,16 @@
 /dconf/*
 /discord/*
 /Electron/*
+/FreeTube/*
 /gh/*
+/gtk-3.0/*
+/gtk-4.0/*
 /GIMP/*
 /kitty/*
 !/kitty/current-theme.conf
 !/kitty/kitty.conf
 /mimeapps.list
+/nushell/history.txt
 /pulse/*
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml

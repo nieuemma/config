@@ -12,6 +12,7 @@ settings:
     global: auto
   content.javascript.clipboard:
     https://github.com: access-paste
+    https://starship.rs: access-paste
   content.notifications.enabled:
     https://www.qwertykeys.com: false
     https://www.youtube.com: false
