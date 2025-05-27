@@ -6,6 +6,7 @@
 /discord/*
 /Electron/*
 /gh/*
+/GIMP/*
 /kitty/*
 !/kitty/current-theme.conf
 !/kitty/kitty.conf

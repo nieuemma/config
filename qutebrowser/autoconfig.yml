@@ -11,9 +11,14 @@ settings:
   content.javascript.clipboard:
     https://github.com: access-paste
   content.notifications.enabled:
+    https://www.qwertykeys.com: false
     https://www.youtube.com: false
   fonts.default_family:
-    global: Input Mono
+    global: Monaspace Neon Var
+  statusbar.show:
+    global: never
+  tabs.show:
+    global: switching
   url.default_page:
     global: about:blank
   url.searchengines:
