@@ -17,6 +17,10 @@ settings:
     global: Monaspace Neon Var
   statusbar.show:
     global: never
+  tabs.favicons.show:
+    global: never
+  tabs.last_close:
+    global: close
   tabs.show:
     global: switching
   url.default_page:
