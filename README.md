@@ -2,6 +2,7 @@
 
 ### I use [Arch Linux](https://archlinux.org/) with the following:
 
+- [atuin](https://github.com/atuinsh/atuin)
 - [clipse](https://github.com/savedra1/clipse)
 - [cmus](https://github.com/cmus/cmus)
 - [github-cli](https://github.com/cli/cli)
