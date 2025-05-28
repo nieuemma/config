@@ -2,5 +2,5 @@
 
 add_newline = false
 format = '''$directory
-:
+
 '''
