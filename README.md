@@ -30,4 +30,3 @@
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [yazi](https://github.com/sxyazi/yazi)
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
-- [zsh4humans](https://github.com/romkatv/zsh4humans)
