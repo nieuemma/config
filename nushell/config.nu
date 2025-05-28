@@ -14,7 +14,7 @@ source ~/.local/share/atuin/init.nu
 alias cat = bat
 alias hx = helix
 alias ls = ls -a
-alias cd = z
+alias wiki = wiki-tui
 
 # commands to run on start
 atuin sync | ignore
