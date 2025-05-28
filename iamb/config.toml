@@ -1,0 +1,7 @@
+[profiles."matrix.org"]
+user_id = "@nieuemma:matrix.org"
+
+[settings]
+username_display = "displayname"
+default_room = "@jabden:matrix.org"
+image_preview = {}

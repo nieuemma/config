@@ -24,7 +24,7 @@ settings:
   downloads.remove_finished:
     global: 0
   fonts.default_family:
-    global: Messlo
+    global: Messlo Sans
   fonts.default_size:
     global: 13pt
   statusbar.show:
