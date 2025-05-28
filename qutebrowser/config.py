@@ -2,7 +2,7 @@
 config.load_autoconfig()
 
 # set qutebrowser colors
-dblue = "#0a0c10"
+dblue = "#010409"
 red = "#ff9492"
 green = "#26cd4d"
 yellow  = "#f0b72f"
@@ -20,16 +20,16 @@ turqb = "#56d4dd"
 whiteb = "#ffffff"
 
 c.colors.completion.fg = white
-c.colors.completion.odd.bg = dblueb
+c.colors.completion.odd.bg = dblue
 c.colors.completion.even.bg = dblue
 c.colors.completion.category.fg = green
 c.colors.completion.category.bg = dblue
 c.colors.completion.category.border.top = dblue
 c.colors.completion.category.border.bottom = dblue
 c.colors.completion.item.selected.fg = green
-c.colors.completion.item.selected.bg = blue
-c.colors.completion.item.selected.border.top = blue
-c.colors.completion.item.selected.border.bottom = blue
+c.colors.completion.item.selected.bg = dblue
+c.colors.completion.item.selected.border.top = green
+c.colors.completion.item.selected.border.bottom = green
 c.colors.completion.item.selected.match.fg = greenb
 c.colors.completion.match.fg = greenb
 c.colors.completion.scrollbar.fg = dblueb
