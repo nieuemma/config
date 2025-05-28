@@ -3,6 +3,7 @@
 /clipse/clipboard_history.json
 !/clipse/config.json
 !/clipse/custom_theme.json
+/cmus/*
 /dconf/*
 /discord/*
 /Electron/*
@@ -23,3 +24,4 @@
 /Raspberry Pi/*
 /simple-update-notifier/*
 /vesktop/*
+/wiki-tui/*
