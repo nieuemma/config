@@ -8,7 +8,8 @@ $env.PATH = ($env.PATH | split row (char esep) | append "/home/emma/.atuin/bin/"
 # external configurations
 source ~/.config/nushell/zoxide.nu
 source ~/.config/nushell/starship.nu
-source ~/.local/share/atuin/init.nu
+source ~/.config/nushell/atuin.nu
+source ~/.config/nushell/yazi.nu
 
 # command aliases
 alias cat = bat
