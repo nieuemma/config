@@ -6,6 +6,7 @@
 - [bottom](https://github.com/clementtsang/bottom)
 - [choose](https://github.com/theryangeary/choose)
 - [clipse](https://github.com/savedra1/clipse)
+- [compsize](https://github.com/kilobyte/compsize)
 - [cmus](https://github.com/cmus/cmus)
 - [fend](https://github.com/printfn/fend)
 - [github-cli](https://github.com/cli/cli)
