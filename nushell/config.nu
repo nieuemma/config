@@ -14,8 +14,9 @@ source ~/.config/nushell/yazi.nu
 # command aliases
 alias cat = bat
 alias hx = helix
-alias ls = ls -a
+alias la = ls -a
 alias wiki = wiki-tui
+alias cs = sudo compsize -x
 
 # commands to run on start
 atuin sync | ignore
