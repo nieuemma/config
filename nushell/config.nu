@@ -16,7 +16,7 @@ alias cat = bat
 alias hx = helix
 alias la = ls -a
 alias wiki = wiki-tui
-alias cs = sudo compsize -x
-
-# commands to run on start
-atuin sync | ignore
+alias cs = sudo-rs compsize -x
+alias su = su-rs
+alias sudo = sudo-rs
+alias mach = macchina -t basic

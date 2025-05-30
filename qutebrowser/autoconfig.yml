@@ -10,10 +10,6 @@ settings:
     global: dark
   completion.show:
     global: auto
-  content.javascript.clipboard:
-    https://docs.atuin.sh: access-paste
-    https://github.com: access-paste
-    https://starship.rs: access-paste
   content.notifications.enabled:
     https://www.qwertykeys.com: false
     https://www.youtube.com: false
