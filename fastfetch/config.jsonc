@@ -4,10 +4,12 @@
   "modules": [
     "os",
     "kernel",
-    "wm",
     "shell",
     "terminal",
     "terminalfont",
     "btrfs",
+    "memory",
+    "swap",
+    "localip",
   ]
 }
