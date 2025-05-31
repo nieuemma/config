@@ -28,7 +28,6 @@ def install_pkg [] {
 def configure [] {
     rm -rf ~/.config
     git clone https://github.com/nieuemma/config ~/.config
-    chsh -s /usr/bin/nu
 }
 
 let pkg = [
