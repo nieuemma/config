@@ -6,39 +6,39 @@
 
 config_version: 2
 settings:
-  colors.webpage.preferred_color_scheme:
-    global: dark
-  completion.show:
-    global: auto
-  content.notifications.enabled:
-    https://www.qwertykeys.com: false
-    https://www.youtube.com: false
-  downloads.location.prompt:
-    global: false
-  downloads.position:
-    global: bottom
-  downloads.remove_finished:
-    global: 0
-  fonts.default_family:
-    global: Messlo Sans
-  fonts.default_size:
-    global: 13pt
-  statusbar.show:
-    global: never
-  tabs.favicons.show:
-    global: never
-  tabs.last_close:
-    global: close
-  tabs.position:
-    global: bottom
-  tabs.show:
-    global: never
-  tabs.wrap:
-    global: false
-  url.default_page:
-    global: about:blank
-  url.searchengines:
-    global:
-      DEFAULT: https://www.startpage.com/search?q={}
-  url.start_pages:
-    global: https://github.com
+    colors.webpage.preferred_color_scheme:
+      global: dark
+    completion.show:
+      global: auto
+    content.notifications.enabled:
+      https://www.qwertykeys.com: false
+      https://www.youtube.com: false
+    downloads.location.prompt:
+      global: false
+    downloads.position:
+      global: bottom
+    downloads.remove_finished:
+      global: 0
+    fonts.default_family:
+      global: Messlo Sans
+    fonts.default_size:
+      global: 13pt
+    statusbar.show:
+      global: never
+    tabs.favicons.show:
+      global: never
+    tabs.last_close:
+      global: close
+    tabs.position:
+      global: bottom
+    tabs.show:
+      global: never
+    tabs.wrap:
+      global: false
+    url.default_page:
+      global: about:blank
+    url.searchengines:
+      global:
+        DEFAULT: https://www.startpage.com/search?q={}
+    url.start_pages:
+      global: https://github.com

@@ -8,6 +8,7 @@ true-color = true
 color-modes = true
 bufferline = 'multiple'
 default-yank-register = '+'
+end-of-line-diagnostics = "hint"
 gutters = ["diff", "diagnostics", "line-numbers", "spacer"]
 
 [editor.soft-wrap]
@@ -26,14 +27,21 @@ hidden = false
 [editor.auto-save]
 focus-lost = true
 after-delay.enable = true
-after-delay.timeout = 60000
-
-[editor.whitespace.characters]
-space = "·"
-tab = "→"
-tabpad = "·"
+after-delay.timeout = 5000
 
 [editor.indent-guides]
 render = true
 character = "▏"
 skip-levels = 0
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
+other-lines = "error"
+
+[editor.whitespace.render]
+space = "none"
+tab = "all"
+
+[editor.whitespace.characters]
+space = "·"
+tab = "→"

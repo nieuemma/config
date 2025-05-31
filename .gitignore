@@ -1,4 +1,5 @@
 .ignore
+/autostart/*
 /clipse/*
 /clipse/clipboard_history.json
 !/clipse/config.json
@@ -9,6 +10,7 @@
 /Electron/*
 /FreeTube/*
 /gh/*
+/go/*
 /gtk-3.0/*
 /gtk-4.0/*
 /GIMP/*
@@ -18,6 +20,7 @@
 !/kitty/kitty.conf
 /mimeapps.list
 /nushell/history.txt
+/privateinternetaccess/*
 /pulse/*
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
@@ -26,3 +29,4 @@
 /simple-update-notifier/*
 /vesktop/*
 /wiki-tui/*
+/zed/*

@@ -3,7 +3,6 @@ $env.config.buffer_editor = '/usr/bin/helix'
 $env.config.edit_mode = 'vi'
 $env.PROMPT_COMMAND = ""
 $env.config.show_banner = false
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/emma/.atuin/bin/")
 
 # external configurations
 source ~/.config/nushell/zoxide.nu
@@ -20,3 +19,4 @@ alias cs = sudo-rs compsize -x
 alias su = su-rs
 alias sudo = sudo-rs
 alias fetch = macchina
+alias parallel = par-each
