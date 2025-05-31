@@ -8,6 +8,7 @@ true-color = true
 color-modes = true
 bufferline = 'multiple'
 default-yank-register = '+'
+gutters = ["diff", "diagnostics", "line-numbers", "spacer"]
 
 [editor.soft-wrap]
 enable = true
@@ -22,3 +23,17 @@ center = ["version-control"]
 [editor.file-picker]
 hidden = false
 
+[editor.auto-save]
+focus-lost = true
+after-delay.enable = true
+after-delay.timeout = 60000
+
+[editor.whitespace.characters]
+space = "·"
+tab = "→"
+tabpad = "·"
+
+[editor.indent-guides]
+render = true
+character = "▏"
+skip-levels = 0

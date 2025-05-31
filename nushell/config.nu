@@ -19,4 +19,4 @@ alias wiki = wiki-tui
 alias cs = sudo-rs compsize -x
 alias su = su-rs
 alias sudo = sudo-rs
-alias mach = macchina -t basic
+alias fetch = macchina
