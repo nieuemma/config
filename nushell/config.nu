@@ -20,3 +20,4 @@ alias su = su-rs
 alias sudo = sudo-rs
 alias fetch = macchina
 alias parallel = par-each
+alias time = hyperfine
