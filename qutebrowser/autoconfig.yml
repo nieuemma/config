@@ -10,6 +10,9 @@ settings:
     global: dark
   completion.show:
     global: auto
+  content.javascript.clipboard:
+    global: access
+    https://github.com: access-paste
   content.notifications.enabled:
     https://www.qwertykeys.com: false
     https://www.youtube.com: false
@@ -20,7 +23,7 @@ settings:
   downloads.remove_finished:
     global: 0
   fonts.default_family:
-    global: Messlo Sans
+    global: Messlo QP
   fonts.default_size:
     global: 13pt
   statusbar.show:

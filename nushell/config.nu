@@ -1,23 +1,21 @@
-# environment variables
-$env.config.buffer_editor = '/usr/bin/helix'
-$env.config.edit_mode = 'vi'
-$env.PROMPT_COMMAND = ""
 $env.config.show_banner = false
+$env.PROMPT_COMMAND = ""
+$env.config.edit_mode = 'vi'
+$env.config.buffer_editor = '/usr/bin/helix'
 
-# external configurations
-source ~/.config/nushell/zoxide.nu
-source ~/.config/nushell/starship.nu
 source ~/.config/nushell/atuin.nu
+source ~/.config/nushell/starship.nu
 source ~/.config/nushell/yazi.nu
+source ~/.config/nushell/zoxide.nu
 
-# command aliases
 alias cat = bat
+alias bm = hyperfine -Ni 
 alias hx = helix
+alias fetch = macchina
+alias parallel = par-each
 alias la = ls -a
-alias wiki = wiki-tui
 alias cs = sudo-rs compsize -x
 alias su = su-rs
 alias sudo = sudo-rs
-alias fetch = macchina
-alias parallel = par-each
-alias time = hyperfine
+alias archwiki = wiki-search
+alias wiki = wiki-tui
