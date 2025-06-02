@@ -32,7 +32,7 @@ memory_percentage = true
 #  if theme path is /home/foo/.config/macchina/themes/Sodium.toml
 #  theme should be uncommented and set to "Sodium"
 #
-theme = "basic"
+theme = "Beryllium"
 
 # Displays only the specified readouts.
 # Accepted values (case-sensitive):
@@ -56,5 +56,5 @@ theme = "basic"
 #   - Battery
 #   - GPU
 #   - DiskSpace
-# Example:
-  show = ["Distribution", "Kernel", "Shell", "Terminal", "WindowManager", "Uptime", "ProcessorLoad", "Memory" ]
+
+  show = ["Distribution", "Kernel", "Shell", "Packages", "Terminal", "WindowManager", "Uptime", ]

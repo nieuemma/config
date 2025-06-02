@@ -18,6 +18,7 @@
 /kitty/*
 !/kitty/current-theme.conf
 !/kitty/kitty.conf
+/klavaro/*
 /mimeapps.list
 /nushell/history.txt
 /privateinternetaccess/*
