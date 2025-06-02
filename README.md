@@ -21,6 +21,7 @@
 - [hyprpicker](https://github.com/hyprwm/hyprpicker)
 - [hyprshot](https://github.com/Gustash/Hyprshot)
 - [iamb](https://github.com/ulyssa/iamb)
+- [imv](https://github.com/eXeC64/imv)
 - [iosevka](https://github.com/be5invis/iosevka)
 - [just](https://github.com/casey/just)
 - [kitty](https://github.com/kovidgoyal/kitty)
