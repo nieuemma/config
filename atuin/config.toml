@@ -20,5 +20,12 @@ store_failed = false
 secrets_filter = true
 history_filter = [
   "^su$",
-  "atuin"
+  "^atuin",
+  "^clear$",
+  "^help",
+  "--help",
+  "-h",
+  "--version",
+  "-v",
+  
 ]
