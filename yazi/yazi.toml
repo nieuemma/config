@@ -1,4 +1,4 @@
-[manager]
+[mgr]
 show_hidden = true
 
 [plugin]
@@ -13,7 +13,7 @@ prepend_previewers = [
 	{ mime = "application/xz",              run = "ouch" },
 ]
 
-[[manager.prepend_keymap]]
+[[mgr.prepend_keymap]]
 on = ["C"]
 run = "plugin ouch"
 desc = "Compress with ouch"
