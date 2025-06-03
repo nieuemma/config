@@ -12,10 +12,8 @@ settings:
     global: auto
   content.javascript.clipboard:
     global: access
-    https://github.com: access-paste
   content.notifications.enabled:
-    https://www.qwertykeys.com: false
-    https://www.youtube.com: false
+    global: false
   downloads.location.prompt:
     global: false
   downloads.position:
