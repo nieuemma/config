@@ -15,6 +15,7 @@ alias hx = helix
 alias fetch = macchina
 alias parallel = par-each
 alias la = ls -a
+alias si = silicon --to-clipboard -f "Messlo Term" -b "#39C5CF"
 alias cs = sudo-rs compsize -x
 alias su = su-rs
 alias sudo = sudo-rs
