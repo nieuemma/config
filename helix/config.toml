@@ -19,7 +19,9 @@ display-messages = true
 display-inlay-hints = true
 
 [editor.statusline]
+left = ["mode", "spinner", "file-name"]
 center = ["version-control"]
+right = ["diagnostics", "position"]
 
 [editor.file-picker]
 hidden = false
