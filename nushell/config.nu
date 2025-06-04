@@ -9,7 +9,7 @@ source ~/.config/nushell/yazi.nu
 source ~/.config/nushell/zoxide.nu
 
 alias cat = bat
-alias calc = fend
+alias calc = kalker
 alias bm = hyperfine -Ni 
 alias hx = helix
 alias fetch = macchina

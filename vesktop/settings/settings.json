@@ -62,7 +62,10 @@
             "file": true
         },
         "AnonymiseFileNames": {
-            "enabled": true
+            "enabled": true,
+            "anonymiseByDefault": true,
+            "method": 0,
+            "randomisedLength": 7
         },
         "AppleMusicRichPresence": {
             "enabled": false
@@ -170,7 +173,18 @@
             "enabled": false
         },
         "FakeNitro": {
-            "enabled": true
+            "enabled": true,
+            "enableStickerBypass": true,
+            "enableStreamQualityBypass": true,
+            "enableEmojiBypass": true,
+            "transformEmojis": true,
+            "transformStickers": true,
+            "transformCompoundSentence": false,
+            "emojiSize": 48,
+            "stickerSize": 160,
+            "useHyperLinks": true,
+            "hyperLinkText": "{{NAME}}",
+            "disableEmbedPermissionCheck": false
         },
         "FakeProfileThemes": {
             "enabled": false
@@ -230,7 +244,14 @@
             "enabled": false
         },
         "ImageZoom": {
-            "enabled": false
+            "enabled": true,
+            "size": 1000,
+            "zoom": 1,
+            "saveZoomValues": true,
+            "nearestNeighbour": false,
+            "square": true,
+            "invertScroll": true,
+            "zoomSpeed": 0.5
         },
         "ImplicitRelationships": {
             "enabled": false
@@ -239,7 +260,11 @@
             "enabled": false
         },
         "IrcColors": {
-            "enabled": true
+            "enabled": true,
+            "memberListColors": true,
+            "lightness": 70,
+            "applyColorOnlyInDms": false,
+            "applyColorOnlyToUsersWithoutColor": false
         },
         "KeepCurrentChannel": {
             "enabled": false
@@ -302,7 +327,8 @@
             "enabled": false
         },
         "NoMosaic": {
-            "enabled": true
+            "enabled": true,
+            "inlineVideo": true
         },
         "NoOnboardingDelay": {
             "enabled": false
@@ -332,7 +358,10 @@
             "enabled": false
         },
         "OnePingPerDM": {
-            "enabled": true
+            "enabled": true,
+            "channelToAffect": "both_dms",
+            "allowMentions": false,
+            "allowEveryone": false
         },
         "oneko": {
             "enabled": false
@@ -590,6 +619,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1748567193166
+        "settingsSyncVersion": 1749004675754
     }
 }
