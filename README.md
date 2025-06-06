@@ -1,6 +1,6 @@
 # Install
 ### Only the necessities
-`sudo pacman -S helix hypridle hyprland hyprlock kitty yazi`
+`sudo pacman -S helix hypridle hyprland hyprlock kitty qutebrowser yazi`
 ### Partial, without AUR packages
 `sudo pacman -S atuin bottom cmus compsize github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell ouch qutebrowser starship wl-clipboard wlsunset yazi zoxide`
 ### Full
