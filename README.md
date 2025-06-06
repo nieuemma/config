@@ -1,7 +1,21 @@
-# nieuemma's configurations
+# Install
+### Only the necessities
+`sudo pacman -S helix hypridle hyprland hyprlock kitty yazi`
+### Partial, without AUR packages
+`sudo pacman -S atuin bottom cmus compsize github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell ouch qutebrowser starship wl-clipboard wlsunset yazi zoxide`
+### Full
+`sudo pacman -S rustup && rustup default stable`
 
-### I use [Arch Linux](https://archlinux.org/) with the following:
+`git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
+`paru -S atuin bluetui clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
+### Don't forget to change your shell after installing nushell
+`chsh -s "/usr/bin/nu"`
+### Optionally, clone my configurations
+`rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
+
+## Links to the software I use
+- [Arch Linux](https://archlinux.org/)
 - [atuin](https://github.com/atuinsh/atuin)
 - [bluetui](https://github.com/pythops/bluetui)
 - [bottom](https://github.com/clementtsang/bottom)
@@ -41,3 +55,5 @@
 - [wlsunset](https://github.com/kennylevinsen/wlsunset)
 - [yazi](https://github.com/sxyazi/yazi)
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
+
+
