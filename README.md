@@ -9,10 +9,12 @@
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
 `paru -S atuin bluetui clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
+### Optionally, clone my configurations
+This is best done before changing your shell
+`rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
 ### Don't forget to change your shell after installing nushell
 `chsh -s "/usr/bin/nu"`
-### Optionally, clone my configurations
-`rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
+
 
 ## Links to the software I use
 - [Arch Linux](https://archlinux.org/)
