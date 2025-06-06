@@ -13,6 +13,7 @@
 This is best done before changing your shell
 
 `rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
+
 `git clone https://github.com/nieuemma/messlo ~/.fonts`
 ### Don't forget to change your shell after installing nushell
 `chsh -s "/usr/bin/nu"`
