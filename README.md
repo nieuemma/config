@@ -11,7 +11,7 @@
 
 `paru -S atuin bluetui bottom clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
 ### Optionally, clone my configurations
-- not everything will function properly in my configs if you dont have the AUR packages
+- not everything will function properly in my configs if you dont have the AUR packages.
 This is best done before changing your shell
 
 `rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
