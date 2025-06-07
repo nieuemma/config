@@ -21,3 +21,7 @@ alias su = su-rs
 alias sudo = sudo-rs
 alias archwiki = wiki-search
 alias wiki = wiki-tui
+
+uwsm check may-start; exec uwsm start hyprland.desktop
+
+
