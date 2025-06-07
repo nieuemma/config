@@ -8,7 +8,7 @@
 
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
-`paru -S atuin bluetui clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
+`paru -S atuin bluetui bottom clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
 ### Optionally, clone my configurations
 This is best done before changing your shell
 
