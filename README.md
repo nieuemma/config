@@ -1,15 +1,13 @@
 # Install
-### Only the necessities
-
-`sudo pacman -S helix hypridle hyprland hyprlock kitty qutebrowser yazi`
 ### Partial, without AUR packages
-`sudo pacman -S atuin bottom cmus compsize github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell ouch qutebrowser starship wl-clipboard wlsunset yazi zoxide`
+`sudo pacman -S atuin bottom cmus compsize github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell nwg-look ouch qutebrowser starship swayosd wl-clipboard wlsunset yazi zoxide`
+
 ### Full
 `sudo pacman -S rustup && rustup default stable`
 
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
-`paru -S atuin bluetui bottom clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell ouch paruz qutebrowser silicon skim starship sudo-rs vesktop wl-clipboard wlsunset yazi zoxide`
+`paru -S atuin bluetui bottom clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop wl-clipboard wlsunset yazi zoxide`
 ### Optionally, clone my configurations
 - not everything will function properly in my configs if you dont have the AUR packages.
 This is best done before changing your shell
