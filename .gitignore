@@ -19,7 +19,6 @@
 /klavaro/*
 /mimeapps.list
 /nushell/history.txt
-/privateinternetaccess/*
 /pulse/*
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
