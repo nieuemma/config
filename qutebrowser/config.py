@@ -109,4 +109,4 @@ c.colors.tabs.selected.odd.fg = whiteb
 c.colors.tabs.selected.odd.bg = dblue
 c.colors.tabs.selected.even.fg = whiteb
 c.colors.tabs.selected.even.bg = dblue
-c.colors.webpage.bg = dblue
+c.colors.webpage.bg = white

@@ -19,12 +19,14 @@
 /klavaro/*
 /mimeapps.list
 /nushell/history.txt
+/nwg-panel/*
 /pulse/*
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
 !/qutebrowser/config.py
 /Raspberry Pi/*
 /simple-update-notifier/*
+/unity3d/*
 /vesktop/*
 /wiki-tui/*
 /zed/*
