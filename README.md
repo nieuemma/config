@@ -1,13 +1,13 @@
 # Install
 ### Partial, without AUR packages
-`sudo pacman -S atuin bottom cmus compsize github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell nwg-look ouch qutebrowser starship swayosd wl-clipboard wlsunset yazi zoxide`
+`sudo pacman -S atuin blender bottom cmus compsize gimp github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell nwg-look ouch qutebrowser starship swayosd wl-clipboard wlsunset yazi zoxide`
 
 ### Full
 `sudo pacman -S rustup && rustup default stable`
 
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
-`paru -S atuin bluetui bottom clipse cmus compsize coreutils-uutils github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop walker wl-clipboard wlsunset yazi zoxide`
+`paru -S atuin blender bluetui bottom clipse cmus compsize coreutils-uutils gimp github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop walker wl-clipboard wlsunset yazi zoxide`
 
 ### Optionally, clone my configurations
 - Not everything will function properly in my configs if you dont have the AUR packages.
@@ -24,12 +24,14 @@
 ## Links to the software I use
 - [Arch Linux](https://archlinux.org/)
 - [atuin](https://github.com/atuinsh/atuin)
+- [blender](https://github.com/blender/blender)
 - [bluetui](https://github.com/pythops/bluetui)
 - [bottom](https://github.com/clementtsang/bottom)
 - [clipse](https://github.com/savedra1/clipse)
 - [cmus](https://github.com/cmus/cmus)
 - [compsize](https://github.com/kilobyte/compsize)
 - [coreutils](https://github.com/uutils/coreutils)
+- [gimp](https://github.com/gnome/gimp)
 - [github-cli](https://github.com/cli/cli)
 - [helix](https://github.com/helix-editor/helix)
 - [hypridle](https://github.com/hyprwm/hypridle)
