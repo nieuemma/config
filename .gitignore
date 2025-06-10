@@ -21,6 +21,7 @@
 /nushell/history.txt
 /nwg-panel/*
 /pulse/*
+QtProject.conf
 /qutebrowser/*
 !/qutebrowser/autoconfig.yml
 !/qutebrowser/config.py

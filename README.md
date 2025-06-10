@@ -7,14 +7,16 @@
 
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
-`paru -S atuin bluetui bottom clipse cmus compsize github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop wl-clipboard wlsunset yazi zoxide`
+`paru -S atuin bluetui bottom clipse cmus compsize coreutils-uutils github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop walker wl-clipboard wlsunset yazi zoxide`
+
 ### Optionally, clone my configurations
-- not everything will function properly in my configs if you dont have the AUR packages.
-This is best done before changing your shell
+- Not everything will function properly in my configs if you dont have the AUR packages.
+- This is best done before changing your shell
 
 `rm -rf ~/.config && git clone https://github.com/nieuemma/config ~/.config`
 
 `git clone https://github.com/nieuemma/messlo ~/.fonts`
+
 ### Don't forget to change your shell after installing nushell
 `chsh -s "/usr/bin/nu"`
 
@@ -27,6 +29,7 @@ This is best done before changing your shell
 - [clipse](https://github.com/savedra1/clipse)
 - [cmus](https://github.com/cmus/cmus)
 - [compsize](https://github.com/kilobyte/compsize)
+- [coreutils](https://github.com/uutils/coreutils)
 - [github-cli](https://github.com/cli/cli)
 - [helix](https://github.com/helix-editor/helix)
 - [hypridle](https://github.com/hyprwm/hypridle)
@@ -58,6 +61,7 @@ This is best done before changing your shell
 - [swayosd](https://github.com/ErikReider/SwayOSD)
 - [timeshift](https://github.com/linuxmint/timeshift)
 - [vesktop](https://github.com/vencord/vesktop)
+- [walker](https://github.com/abenz1267/walker)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - [wlsunset](https://github.com/kennylevinsen/wlsunset)
 - [yazi](https://github.com/sxyazi/yazi)
