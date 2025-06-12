@@ -3,8 +3,6 @@
 `sudo pacman -S atuin blender bottom cmus compsize gimp github-cli helix hypridle hyprland hyprlock hyprpaper imv kitty macchina mpv nushell nwg-look ouch qutebrowser starship swayosd wl-clipboard wlsunset yazi zoxide`
 
 ### Full
-`sudo pacman -S rustup && rustup default stable`
-
 `git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si`
 
 `paru -S atuin blender bluetui bottom clipse cmus compsize coreutils-uutils gimp github-cli helix hypridle hyprland hyprlock hyprnome hyprnotify hyproled-git hyprpaper hyprpicker hyprshot imv just kitty macchina mpv nushell nwg-look ouch paruz qutebrowser silicon skim starship sudo-rs swayosd vesktop walker wl-clipboard wlsunset yazi zoxide`
