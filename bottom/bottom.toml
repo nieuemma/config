@@ -1,0 +1,11 @@
+[flags]
+hide_avg_cpu = true
+dot_marker = false
+rate = "2s"
+unnormalized_cpu = true
+group_processes = true
+regex = true
+basic = true
+process_command = false
+disable_advanced_kill = true
+enable_gpu = true

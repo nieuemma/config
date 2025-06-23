@@ -1,0 +1,31 @@
+auto_sync = true
+update_check = true
+sync_address = "https://api.atuin.sh"
+sync_frequency = "0"
+search_mode = "skim"
+filter_mode = "global"
+workspaces = false
+filter_mode_shell_up_key_binding = "global"
+search_mode_shell_up_key_binding = "fuzzy"
+style = "compact"
+inline_height = 0
+invert = false
+show_preview = false
+prefers_reduced_motion = true
+exit_mode = "return-query"
+# history_format = ""
+enter_accept = true
+keymap_mode = "vim-normal"
+store_failed = false
+secrets_filter = true
+history_filter = [
+  "^su$",
+  "^atuin",
+  "^clear$",
+  "^help",
+  "--help",
+  "-h",
+  "--version",
+  "-v",
+  
+]

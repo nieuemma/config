@@ -1,0 +1,6 @@
+Config(
+  x: Fraction(0.5),
+  y: Fraction(0.4),
+  width: Fraction(0.25),
+  height: Absolute(0),
+)

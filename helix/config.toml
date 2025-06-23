@@ -1,0 +1,49 @@
+theme = "gitdark"
+
+[editor]
+scrolloff = 0
+scroll-lines = 4
+line-number = 'absolute'
+true-color = true
+color-modes = true
+bufferline = 'multiple'
+default-yank-register = '+'
+end-of-line-diagnostics = "hint"
+gutters = ["diff", "diagnostics", "line-numbers", "spacer"]
+
+[editor.soft-wrap]
+enable = true
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+[editor.statusline]
+left = ["mode", "spinner", "file-name"]
+center = ["version-control"]
+right = ["diagnostics", "position"]
+
+[editor.file-picker]
+hidden = false
+
+[editor.auto-save]
+focus-lost = true
+after-delay.enable = true
+after-delay.timeout = 5000
+
+[editor.indent-guides]
+render = true
+character = "▏"
+skip-levels = 0
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
+other-lines = "error"
+
+[editor.whitespace.render]
+space = "none"
+tab = "all"
+
+[editor.whitespace.characters]
+space = "·"
+tab = "→"
